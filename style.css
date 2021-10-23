@@ -1,0 +1,22 @@
+.footer {
+    margin-top: 22%;
+  }
+  
+  body {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  
+  i {
+    background-color: none;
+    color: black;
+  }
+  
+  button {
+    text-decoration: none;
+  }
+  
+  .flip-right {
+    margin-left: 55px;
+  }
